@@ -245,6 +245,7 @@ Detaillierte Flows: `docs/02_Architecture_and_Dataflow.md`.
 
 ### AI Reply Assistant
 
+- Projektseite: https://github.com/sasabajic/AI-Reply-Assistant-Plugin-for-osTicket
 - Integrationsdokumentation im Projekt: `include/plugins/ai-reply-assistant/README_RAG.md`
 - Plugin-Konfiguration im Projekt: `include/plugins/ai-reply-assistant/config.php`
 
